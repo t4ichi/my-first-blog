@@ -7,3 +7,5 @@ pip install --upgrade pip
 
 djangoインストール
 django-admin.exe startproject mysite .
+
+サーバー起動 python manage.py runserver
